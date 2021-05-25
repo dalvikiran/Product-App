@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Product App</string>
+
+    <string name="network_failure_string">Connection to server failed. Please retry</string>
+</resources>
